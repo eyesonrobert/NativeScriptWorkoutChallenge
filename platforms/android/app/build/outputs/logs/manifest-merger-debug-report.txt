@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\16a7309085740bad387cf9036f34b973\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\9ebe281bdf86e7527de76173809f9637\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\09899eef0c22e5c3a27c41810fb999bd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\26b063b232483218dde584a755847838\AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\da0770dd29c3f8e473cc4fcb615fd6de\AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\9bd2e0e3c040da09523ce3e89a1e893a\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\b1b3de6f5b0ae98bc09b92850726c389\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\7268cc20e4dc82d46b225262594c5034\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\6f7c703dd0a925b42e7cdafacf27f9e0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\4c3bc01344d3fe6d38acbdc89d407129\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\db0eb2382f5a435d6b79ba7be96449c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\5dce4eff0f0c7ff75b01f148ca8b9671\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\68437e3ebf286ef9d56c9b0025513b1b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\d6006a44114de5919b811c7a842a6fb2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\40cd9921c1c2f1407952c28f822b707a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\779f3b44bcbaf5bff45544a51969a82a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\621cc444acbe2a3fbfebce605a830724\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\f10e91254d02416e6d3e48327ec52587\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\f2e4f56a8945464d0234b150ce141288\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\89dbd3e23ddfb6d979599c05ba818a38\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\a39e2199700fa94cbe15d62bf07efdda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\d3d3e9d34d948dbbb4b0ea35486f2fca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\c4e00f58487edc36d861438f9024f9b5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\4604d5f2e68bc5d18026ec7a0012a09b\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\ff4f449424d4678f1aaf1f00060e6bd4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\a1f60bc9545893074c3cca46c065eb25\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\76f9c2d127984820cdd4d5b7ab8e4981\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\8c0a5689d31cbc9e0da406e8e22e114d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\53dd9cacfd0f6283ecd1ff2cfe753f32\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\14e9c91d3f38b32e48140f694f18cf9f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\6abec39f9eb5a7dc7867925b50d290e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\714f36450a75233a300c9d54cdfa483d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\ad72fbe8367d38a1479b50732aba201a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\33f497e8bcdcaee7584dd43e4423ca44\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\6ed222c666828243c5aab4f10f9fa14e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:3:2-39
+		INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:44
+INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:44
+INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\16a7309085740bad387cf9036f34b973\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\16a7309085740bad387cf9036f34b973\AndroidManifest.xml:20:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\9ebe281bdf86e7527de76173809f9637\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\9ebe281bdf86e7527de76173809f9637\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\09899eef0c22e5c3a27c41810fb999bd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\09899eef0c22e5c3a27c41810fb999bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\26b063b232483218dde584a755847838\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\26b063b232483218dde584a755847838\AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\da0770dd29c3f8e473cc4fcb615fd6de\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\da0770dd29c3f8e473cc4fcb615fd6de\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\9bd2e0e3c040da09523ce3e89a1e893a\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\9bd2e0e3c040da09523ce3e89a1e893a\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\b1b3de6f5b0ae98bc09b92850726c389\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\b1b3de6f5b0ae98bc09b92850726c389\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\7268cc20e4dc82d46b225262594c5034\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\7268cc20e4dc82d46b225262594c5034\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\6f7c703dd0a925b42e7cdafacf27f9e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\6f7c703dd0a925b42e7cdafacf27f9e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\4c3bc01344d3fe6d38acbdc89d407129\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\4c3bc01344d3fe6d38acbdc89d407129\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\db0eb2382f5a435d6b79ba7be96449c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\db0eb2382f5a435d6b79ba7be96449c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\5dce4eff0f0c7ff75b01f148ca8b9671\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\5dce4eff0f0c7ff75b01f148ca8b9671\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\68437e3ebf286ef9d56c9b0025513b1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\68437e3ebf286ef9d56c9b0025513b1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\d6006a44114de5919b811c7a842a6fb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\d6006a44114de5919b811c7a842a6fb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\40cd9921c1c2f1407952c28f822b707a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\40cd9921c1c2f1407952c28f822b707a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\779f3b44bcbaf5bff45544a51969a82a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\779f3b44bcbaf5bff45544a51969a82a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\621cc444acbe2a3fbfebce605a830724\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\621cc444acbe2a3fbfebce605a830724\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\f10e91254d02416e6d3e48327ec52587\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\f10e91254d02416e6d3e48327ec52587\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\f2e4f56a8945464d0234b150ce141288\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\f2e4f56a8945464d0234b150ce141288\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\89dbd3e23ddfb6d979599c05ba818a38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\89dbd3e23ddfb6d979599c05ba818a38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\a39e2199700fa94cbe15d62bf07efdda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\a39e2199700fa94cbe15d62bf07efdda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\d3d3e9d34d948dbbb4b0ea35486f2fca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\d3d3e9d34d948dbbb4b0ea35486f2fca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\c4e00f58487edc36d861438f9024f9b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\c4e00f58487edc36d861438f9024f9b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\4604d5f2e68bc5d18026ec7a0012a09b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\4604d5f2e68bc5d18026ec7a0012a09b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\ff4f449424d4678f1aaf1f00060e6bd4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\ff4f449424d4678f1aaf1f00060e6bd4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\a1f60bc9545893074c3cca46c065eb25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\a1f60bc9545893074c3cca46c065eb25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\76f9c2d127984820cdd4d5b7ab8e4981\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\76f9c2d127984820cdd4d5b7ab8e4981\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\8c0a5689d31cbc9e0da406e8e22e114d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\8c0a5689d31cbc9e0da406e8e22e114d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\53dd9cacfd0f6283ecd1ff2cfe753f32\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\53dd9cacfd0f6283ecd1ff2cfe753f32\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\14e9c91d3f38b32e48140f694f18cf9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\14e9c91d3f38b32e48140f694f18cf9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\6abec39f9eb5a7dc7867925b50d290e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\6abec39f9eb5a7dc7867925b50d290e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\714f36450a75233a300c9d54cdfa483d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\714f36450a75233a300c9d54cdfa483d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\ad72fbe8367d38a1479b50732aba201a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\ad72fbe8367d38a1479b50732aba201a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\33f497e8bcdcaee7584dd43e4423ca44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\33f497e8bcdcaee7584dd43e4423ca44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\6ed222c666828243c5aab4f10f9fa14e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\6ed222c666828243c5aab4f10f9fa14e\AndroidManifest.xml:20:5-44
+INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:44
+INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:44
+	android:targetSdkVersion
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:15:3-42
+		INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\09899eef0c22e5c3a27c41810fb999bd\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\09899eef0c22e5c3a27c41810fb999bd\AndroidManifest.xml:22:5-20
+MERGED from [:widgets-release:] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\9bd2e0e3c040da09523ce3e89a1e893a\AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\9bd2e0e3c040da09523ce3e89a1e893a\AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\c4e00f58487edc36d861438f9024f9b5\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\c4e00f58487edc36d861438f9024f9b5\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\4604d5f2e68bc5d18026ec7a0012a09b\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\4604d5f2e68bc5d18026ec7a0012a09b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\eyeso\.gradle\caches\transforms-2\files-2.1\c4e00f58487edc36d861438f9024f9b5\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:34:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from C:\NativeScript\ns-ng-course\platforms\android\app\src\main\AndroidManifest.xml:41:13-55

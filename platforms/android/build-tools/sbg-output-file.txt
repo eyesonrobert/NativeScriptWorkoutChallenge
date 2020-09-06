@@ -1,0 +1,1 @@
+C:\NativeScript\ns-ng-course\platforms\android\app/src/main/java

@@ -1,0 +1,4 @@
+C:\NativeScript\ns-ng-course\platforms\android\app\src\main\assets\app\bundle.js
+C:\NativeScript\ns-ng-course\platforms\android\app\src\main\assets\app\runtime.js
+C:\NativeScript\ns-ng-course\platforms\android\app\src\main\assets\app\tns-java-classes.js
+C:\NativeScript\ns-ng-course\platforms\android\app\src\main\assets\app\vendor.js
