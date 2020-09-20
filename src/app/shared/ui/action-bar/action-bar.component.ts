@@ -9,17 +9,18 @@ declare var android: any;
   selector: 'ns-action-bar',
   templateUrl: './action-bar.component.html',
   styleUrls: ['./action-bar.component.css'],
-  moduleId: module.id
+  moduleId: module.id,
 })
 export class ActionBarComponent implements OnInit {
   @Input() title: string;
+  @Input() showBackButton = true;
 
   constructor(private page: Page, private router: RouterExtensions) {}
 
   ngOnInit() {}
 
   get canGoBack() {
-    return this.router.canGoBack();
+    return this.router.canGoBack() && this.showBackButton;
   }
 
   onGoBack() {

@@ -5,14 +5,14 @@ import { RouterExtensions } from 'nativescript-angular/router';
   selector: 'ns-current-challenge',
   templateUrl: './current-challenge.component.html',
   styleUrls: ['./current-challenge.component.css'],
-  moduleId: module.id
+  moduleId: module.id,
 })
 export class CurrentChallengeComponent {
   constructor(private router: RouterExtensions) {}
 
   onEdit() {
-    this.router.navigate(['/edit-challenge']);
+    this.router.navigate(['/edit-challenge'], {
+      transition: { name: 'slideLeft' },
+    });
   }
-
-  
 }
